@@ -1,2 +1,2 @@
 # SaithCM
-Hi
+print("Hello, world!")
